@@ -1,4 +1,12 @@
-## Friend Recommendation System
-This is an Java programming language project and we are going to use 'NetBeans' to run this project
+# Friend Recommendation System
+A Java application that recommends friends based on user preferences and social connections.
 
-The system is built using Object-Oriented Programming (OOP) principles such as encapsulation, abstraction, and modular class design.
+## Description
+This project takes user input about interests and connections and suggests potential friends.  
+It demonstrates Java programming concepts, including OOP, collections, and file handling.
+
+## Features
+- Suggest friends based on interest similarity
+- Display friend details and connection strength
+- Add new users and update interests
+- Save and load user data from files
